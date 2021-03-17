@@ -46,9 +46,10 @@ public void is_generated(String string) {
         }
 
 ```
-        Step 3 : Then you can do basic BDD excercise to copy genearted code
-        into src/test/java/com/codepair/processor/cucumber/stepdefinitions/TestSteps.java
-        and modify for any random implememtation 
 
-        Step 4 : Execute src/test/java/com/codepair/processor/cucumber/ItemProcessorBddRunner.java
-        to ensure your BDD Step File is called and getting excuted
+    Step 3 : Then you can do basic BDD excercise to copy genearted code
+    into src/test/java/com/codepair/processor/cucumber/stepdefinitions/TestSteps.java
+    and modify for any random implememtation 
+
+    Step 4 : Execute src/test/java/com/codepair/processor/cucumber/ItemProcessorBddRunner.java
+    to ensure your BDD Step File is called and getting excuted
