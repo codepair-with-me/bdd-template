@@ -1,10 +1,12 @@
 package com.codepair.domain;
 
 import lombok.Builder;
+import lombok.Data;
 import lombok.Getter;
 
 @Builder
 @Getter
+@Data
 public class Item {
 
     private String source;
